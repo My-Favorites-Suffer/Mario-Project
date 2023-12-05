@@ -1,0 +1,12 @@
+.banner {
+  position: relative;
+}
+.banner img {
+  max-width: 100%;
+}
+.banner .welcome {
+  background-color: #feb614;
+  position: absolute;
+  left: 0px;
+  top: 30%;
+}
