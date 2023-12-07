@@ -11,7 +11,7 @@ header {
 header h1 {
   color: white;
   border: 8px solid white;
-  padding: 6px 12 px;
+  padding: 6px 12px;
   display: inline-block;
   border-radius: 36px;
 }
@@ -38,4 +38,11 @@ header h1 {
 nav {
   background-color: #f4f4f4;
   padding: 20px;
+}
+nav ul {
+  white-space: nowrap;
+}
+nav li {
+  width: 25%;
+  font-size: 24px;
 }
